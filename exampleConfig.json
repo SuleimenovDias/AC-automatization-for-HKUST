@@ -1,0 +1,10 @@
+{
+    "bot_token": "Your Token Here",
+    "auto_start_enabled": false,
+    "default_interval_minutes": 10,
+    "logging": {
+        "level": "INFO",
+        "keep_console_output": true,
+        "max_log_files": 7
+    }
+}
